@@ -65,7 +65,7 @@ steps:
 
 
 
-- script: python "a1.py"
+- script: python "sum.py"
 
 
 
